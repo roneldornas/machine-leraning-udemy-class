@@ -1,1 +1,1 @@
-machine-learning-udemy-clss
+machine-learning-udemy-class
